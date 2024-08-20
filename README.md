@@ -1,6 +1,15 @@
-# Repositório de Estudos GIT - DIO
+# Repositório de Estudos GIT e GITHUB - DIO
 Repositório para estudos de GIT e GITHUB pela plataforma de estudos DIO
 
 ## Autenticações
   1. Autenticação por nome de usuário e Senha - OK
   2. Autenticação por Token - OK
+
+## Objetivos da Aula
+  1. Criar um repositório local e adicioná-lo ao GITHUB remoto; [ ]
+  2. Clonar um repositório remoto para o nosso computador local; [ ]
+  3. Fazer alterações >> Adicionar >> Commitar >> Enviar; [ ]
+  4. Criar uma nova Branch; [ ]
+  5. Realizar um Pull Request e Merge; [ ]
+  6. Criar nosso primeiro Fork; [ ]
+  
