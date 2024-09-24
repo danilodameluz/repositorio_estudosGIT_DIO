@@ -10,5 +10,5 @@ Repositório para estudos de GIT e GITHUB pela plataforma de estudos DIO
   2. Clonar um repositório remoto para o nosso computador local; [X]
   3. Fazer alterações >> Adicionar >> Commitar >> Enviar; [X]
   4. Criar uma nova Branch; [X]
-  5. Realizar um Pull Request e Merge; [ ]
+  5. Realizar um Pull Request e Merge; [X]
   6. Criar nosso primeiro Fork; [ ]
